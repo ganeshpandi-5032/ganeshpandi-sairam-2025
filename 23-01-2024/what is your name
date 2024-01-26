@@ -28,3 +28,6 @@ Taylor
 Sample Output 0
 
 Hello Ross Taylor! You just delved into python.
+
+def print_full_name(first, last):
+    print("Hello " + first + " " + last + "! You just delved into python.")
